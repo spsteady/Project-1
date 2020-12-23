@@ -150,6 +150,10 @@ header .experience-image {
   border-color: #ff99ff;
 }
 
+#cover {
+  display: none;
+}
+
 .about-section {
   margin: 25px;
   margin-top: 2px;
